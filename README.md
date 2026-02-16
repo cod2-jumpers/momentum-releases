@@ -3,7 +3,7 @@
 
 # Momentum HUD – Cod jumper HUD for CoD2 / CoD4
 
-Momentum HUD is an in-game HUD and training overlay for **Call of Duty 2** and **Call of Duty 4**, focused on **movement mastery**, **jump analysis**, and **route planning**.
+Momentum HUD is an in-game HUD and training overlay for **Call of Duty 2** and **Call of Duty 4**, created by **blaadje** & **duck**, focused on **movement mastery**, **jump analysis**, and **route planning**.
 
 It provides a set of configurable widgets, markers and path tooling, measurement helpers, and a streamlined in-game options UI.
 
