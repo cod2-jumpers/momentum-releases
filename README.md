@@ -3,11 +3,11 @@
 
 # Momentum HUD – Cod jumper HUD for CoD2 / CoD4
 
-
 <p align="center">
   <img src="https://img.shields.io/github/downloads/cod2-jumpers/momentum-releases/total">
   <img src="https://img.shields.io/github/v/release/cod2-jumpers/momentum-releases">
   <img src="https://img.shields.io/github/release-date/cod2-jumpers/momentum-releases">
+  <img src="https://img.shields.io/badge/VirusTotal-14%2F75-brightgreen?logo=virustotal">
 </p>
 
 Momentum HUD is an in-game HUD and training overlay for **Call of Duty 2** and **Call of Duty 4**, created by **blaadje** & **duck**, focused on **movement mastery**, **jump analysis**, and **route planning**.
