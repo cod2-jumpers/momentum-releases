@@ -1,7 +1,4 @@
-<img width="1200" height="300" alt="ChatGPT_Image_Jan_25_2026_09_09_24_PM_1200x300" src="https://github.com/user-attachments/assets/541ac6e6-93d7-41c6-8cd1-7c81b39c9b2d" />
-
-
-# Momentum HUD – Cod jumper HUD for CoD2 / CoD4
+[![](https://utfs.io/f/nGnSqDveMsqxjGkT5ogVBUsFo4CyOfkcQiLY73XZznRTW1eH)](https://www.youtube.com/watch?v=BgWqviClHYA)
 
 <p align="center">
   <img src="https://img.shields.io/github/downloads/cod2-jumpers/momentum-releases/total">
@@ -15,6 +12,14 @@ Momentum HUD is an in-game HUD and training overlay for **Call of Duty 2** and *
 It provides a set of configurable widgets, markers and path tooling, measurement helpers, and a streamlined in-game options UI.
 
 Everything is designed to be quick to toggle, easy to read while playing, and fully customizable.
+
+<a href="https://www.buymeacoffee.com/momentumblaadje">
+  <img
+    src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png"
+    width="200"
+    alt="Buy Me A Coffee"
+  />
+</a>
 
 ---
 
