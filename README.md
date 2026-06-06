@@ -112,3 +112,21 @@ Designed to stay readable during gameplay, every tool is configurable, lightweig
 - Call of Duty 2
 - Call of Duty 4
 
+---
+
+## Optional Tools
+
+### LAA Patcher
+
+Enables the **LARGEADDRESSAWARE** flag on `iw3mp.exe` so the 32-bit
+CoD2 / CoD4 client can address up to **4 GB** of memory instead of the
+default 2 GB, reducing out-of-memory crashes on large maps.
+
+- **[Download laa_patcher.exe](https://github.com/cod2-jumpers/laa-patcher/releases/latest/download/laa_patcher.exe)**
+- Source & usage: [cod2-jumpers/laa-patcher](https://github.com/cod2-jumpers/laa-patcher)
+
+**Drag your `iw3mp.exe` onto `laa_patcher.exe`** (or run
+`laa_patcher.exe <path-to-iw3mp.exe>` from a terminal), then choose
+**1 - Patch**. Double-clicking with no file just prints usage and exits.
+Back up the exe first.
+
