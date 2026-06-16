@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/downloads/cod2-jumpers/momentum-releases/total">
   <img src="https://img.shields.io/github/v/release/cod2-jumpers/momentum-releases">
   <img src="https://img.shields.io/github/release-date/cod2-jumpers/momentum-releases">
-  <img src="https://img.shields.io/badge/VirusTotal-14%2F75-brightgreen?logo=virustotal">
+  <img src="https://img.shields.io/badge/VirusTotal-1%2F75-brightgreen?logo=virustotal">
 </p>
 
 # Momentum – Ingame CoDJumper HUD
